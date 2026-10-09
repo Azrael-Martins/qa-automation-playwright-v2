@@ -168,11 +168,7 @@ Workflow [`.github/workflows/playwright.yml`](.github/workflows/playwright.yml):
 
 ---
 
-## Roadmap e próximos passos
 
-- [ ] CRUD de posts (criar, atualizar, excluir)
-- [ ] Cenários de erro (404, recurso inexistente)
-- [ ] Recursos `comments` e `users` seguindo o checklist acima
 
 ---
 
